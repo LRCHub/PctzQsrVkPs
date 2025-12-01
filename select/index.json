@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Toy",
+  "base_artist": "Netta",
+  "createdAt": "2025-12-01T04:19:47.008747Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Toy",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/01_Toy_f(x).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boy Toy",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/02_Boy_Toy_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Like Toy Soldiers",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/03_Like_Toy_Soldiers_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Toy Soldier",
+      "artist": "50 Cent feat. Tony Yayo",
+      "has_synced": true,
+      "path": "select/04_My_Toy_Soldier_50_Cent_feat._Tony_Yayo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Toy Soldier (featuring Tony Yayo) (Produced by Eminem)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/05_My_Toy_Soldier_(featuring_Tony_Yayo)_(Produced_by_Eminem)_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Toy",
+      "artist": "Young Fathers",
+      "has_synced": true,
+      "path": "select/06_Toy_Young_Fathers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm Not Your Toy",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/07_I'm_Not_Your_Toy_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Not Your Toy - Data Remix",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/08_I'm_Not_Your_Toy_-_Data_Remix_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Not Your Toy - Jack Beats Remix",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/09_I'm_Not_Your_Toy_-_Jack_Beats_Remix_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm Not Your Toy (Jack Beats remix)",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/10_I'm_Not_Your_Toy_(Jack_Beats_remix)_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Toy Patriot",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/11_Toy_Patriot_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Broken Toy",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/12_Broken_Toy_Keane.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In The Heat Of The Moment (Toy Drum Remix) - Remix",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "has_synced": false,
+      "path": "select/13_In_The_Heat_Of_The_Moment_(Toy_Drum_Remix)_-_Remix_Noel_Gallagher's_High_Flying_Birds.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cuddly Toy",
+      "artist": "Harry Nilsson",
+      "has_synced": true,
+      "path": "select/14_Cuddly_Toy_Harry_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One Toy Soldier",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/15_One_Toy_Soldier_Enya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "To You…",
+      "artist": "AZU",
+      "has_synced": false,
+      "path": "select/pl_01_To_You..._AZU.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Toy box",
+      "artist": "AZU",
+      "has_synced": false,
+      "path": "select/pl_02_Toy_box_AZU.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Toy box (Producer's Hip-Hop Version)",
+      "artist": "AZU",
+      "has_synced": false,
+      "path": "select/pl_03_Toy_box_(Producer's_Hip-Hop_Version)_AZU.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "To Your Heart",
+      "artist": "AZU",
+      "has_synced": false,
+      "path": "select/pl_04_To_Your_Heart_AZU.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "To You... もう一度 feat.AZU",
+      "artist": "AZU",
+      "has_synced": false,
+      "path": "select/pl_05_To_You..._もう一度_feat.AZU_AZU.txt"
+    }
+  ]
+}
